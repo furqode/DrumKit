@@ -20,7 +20,7 @@
   }
   
   .key {
-    border: .4rem solid black;
+    border: .4rem solid rgb(77, 73, 73);
     border-radius: .5rem;
     margin: 1rem;
     font-size: 1.5rem;
@@ -29,7 +29,7 @@
     width: 10rem;
     text-align: center;
     color: white;
-    background: rgba(0,0,0,0.4);
+    background: rgba(160, 147, 147, 0.4);
     text-shadow: 0 0 .5rem black;
   }
   
